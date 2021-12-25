@@ -1,0 +1,59 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Dalcimar/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar;C:/Users/Dalcimar/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar;C:/Users/Dalcimar/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar;C:/Users/Dalcimar/.m2/repository/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar;C:/Users/Dalcimar/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar;C:/Users/Dalcimar/.m2/repository/org/apache/commons/commons-dbcp2/2.7.0/commons-dbcp2-2.7.0.jar;C:/Users/Dalcimar/.m2/repository/org/apache/commons/commons-pool2/2.7.0/commons-pool2-2.7.0.jar;C:/Users/Dalcimar/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'F:/Cursos/JSPs/ControlClientes/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/Cursos/JSPs/ControlClientes/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ControlClientes 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'F:/Cursos/JSPs/ControlClientes/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ControlClientes 1.0 API'
+dados
+dominio
+web
+'F:/Cursos/JSPs/ControlClientes/src/main/java/dados/ClienteDaoJDBC.java'
+'F:/Cursos/JSPs/ControlClientes/src/main/java/dados/Conexion.java'
+'F:/Cursos/JSPs/ControlClientes/src/main/java/dominio/Cliente.java'
+'F:/Cursos/JSPs/ControlClientes/src/main/java/web/ServletControlador.java'
+C:\Users\Dalcimar\.m2\repository\javax\javaee-api\8.0\javaee-api-8.0.jar = 1637972272903
+C:\Users\Dalcimar\.m2\repository\com\sun\mail\javax.mail\1.6.0\javax.mail-1.6.0.jar = 1637972273263
+C:\Users\Dalcimar\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar = 1637972272220
+C:\Users\Dalcimar\.m2\repository\mysql\mysql-connector-java\8.0.19\mysql-connector-java-8.0.19.jar = 1637446400212
+C:\Users\Dalcimar\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar = 1637446399789
+C:\Users\Dalcimar\.m2\repository\org\apache\commons\commons-dbcp2\2.7.0\commons-dbcp2-2.7.0.jar = 1637887652248
+C:\Users\Dalcimar\.m2\repository\org\apache\commons\commons-pool2\2.7.0\commons-pool2-2.7.0.jar = 1637887651915
+C:\Users\Dalcimar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1636769046338
+F:\Cursos\JSPs\ControlClientes\src\main\java = 1639186287771
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\allclasses-frame.html = 1640436482320
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\allclasses-noframe.html = 1640436482322
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\constant-values.html = 1640436482176
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\deprecated-list.html = 1640436482318
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\help-doc.html = 1640436482340
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\index-all.html = 1640436482314
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\index.html = 1640436482324
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\overview-frame.html = 1640436482131
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\overview-summary.html = 1640436482335
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\overview-tree.html = 1640436482297
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\package-list = 1640436482127
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\script.js = 1640436482343
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\serialized-form.html = 1640436482195
+F:\Cursos\JSPs\ControlClientes\target\site\apidocs\stylesheet.css = 1640436482342
